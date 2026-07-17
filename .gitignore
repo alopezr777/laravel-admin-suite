@@ -3,6 +3,7 @@
 /node_modules
 /public/build
 /public/hot
+/database/*.sqlite
 /storage/*.key
 /vendor
 .env
@@ -14,4 +15,3 @@ Homestead.yaml
 auth.json
 npm-debug.log
 yarn-error.log
-
