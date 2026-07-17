@@ -2,7 +2,7 @@
 
 [![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?logo=laravel&logoColor=white)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.3+-777BB4?logo=php&logoColor=white)](https://www.php.net)
-[![Tests](https://github.com/alopezr777/alopezr777-laravel-admin-suite/actions/workflows/tests.yml/badge.svg)](https://github.com/alopezr777/alopezr777-laravel-admin-suite/actions/workflows/tests.yml)
+[![Tests](https://github.com/alopezr777/laravel-admin-suite/actions/workflows/tests.yml/badge.svg)](https://github.com/alopezr777/laravel-admin-suite/actions/workflows/tests.yml)
 [![License](https://img.shields.io/badge/license-MIT-0f172a)](LICENSE)
 
 A portfolio-ready administration workspace built with Laravel. It demonstrates a realistic internal application with authentication, role-based access, project and task management, reporting metrics, activity tracking, responsive UI and automated tests.
@@ -78,8 +78,8 @@ erDiagram
 Requirements: PHP 8.3+, Composer, Node.js 20+ and the SQLite PHP extension.
 
 ```bash
-git clone https://github.com/alopezr777/alopezr777-laravel-admin-suite.git
-cd alopezr777-laravel-admin-suite
+git clone https://github.com/alopezr777/laravel-admin-suite.git
+cd laravel-admin-suite
 composer install
 cp .env.example .env
 touch database/database.sqlite
